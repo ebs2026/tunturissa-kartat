@@ -1,0 +1,50 @@
+{
+  "syote": {
+    "sizeBytes": 6983680,
+    "sha256": "9ae649a8e4086ef4af6f1cda4ebef85a1eb6c78b4bffd7f94afa12acbb7517a3"
+  },
+  "ruka": {
+    "sizeBytes": 10563584,
+    "sha256": "f09c30869fc1a22c76d6c15ee1553f3d78c2dcd81b1567bfff65ea4b671efa9e"
+  },
+  "vuokatti": {
+    "sizeBytes": 5066752,
+    "sha256": "0a55866134f85d68ceda4f66986044d41699ff37c9b9adde24fe27a1ec8b36d2"
+  },
+  "himos": {
+    "sizeBytes": 6258688,
+    "sha256": "93d72fc88aad921072a0104cbb52e1b63681887b4b97b5310c28bd6be78ce3b1"
+  },
+  "yllas": {
+    "sizeBytes": 6209536,
+    "sha256": "f1324d3486d99a723cdccf18d7a3e03beb668ce22c9e1c83abb7ba3212cbcfc0"
+  },
+  "sappee": {
+    "sizeBytes": 5283840,
+    "sha256": "8783be961510590e931ef4f44495aff7d33541f74ac623db0ae1afff3491edfa"
+  },
+  "salla": {
+    "sizeBytes": 6049792,
+    "sha256": "357d45ac379e522984c10eeaf377abb750afda4a76dd13ef54d7366fcb7e9585"
+  },
+  "saariselka": {
+    "sizeBytes": 6623232,
+    "sha256": "79f60dc78b5aecb380fd8898728e81a859e6ec31e60cb8ea18a60c4b29a1b7ed"
+  },
+  "pyha": {
+    "sizeBytes": 8671232,
+    "sha256": "a42ee1a20f3bd5fe45d7b857e3a2f2664d3230241b825e842adf1774cd103d6b"
+  },
+  "ounasvaara": {
+    "sizeBytes": 5664768,
+    "sha256": "8cd15ba6ff2ef3e551ba3e97873eeadc4eb073cb727f00c195aaa105fab14c03"
+  },
+  "levi": {
+    "sizeBytes": 4415488,
+    "sha256": "1203f5bcd207ece3896ccafb8590eb0eb341338be539d3fa2c47f5bb51a16828"
+  },
+  "tahko": {
+    "sizeBytes": 5292032,
+    "sha256": "d5432783b49a4801000d63bbf48e6db937a9f3a66ffb990dde86e7fd6361b763"
+  }
+}
